@@ -33,5 +33,8 @@
         "eslint-plugin-react": "^7.34.1",
         "eslint-plugin-react-hooks": "^4.6.0"
     },
+    "engines": {
+        "node": ">=20"
+    },
     "description": "a app for pet adoption"
 }
